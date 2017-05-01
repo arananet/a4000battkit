@@ -14,7 +14,7 @@ Pequeño PCB que permite sustituir la batería original (Ni-MH) de los Amiga 400
 | ------------- | ----------------------- | ------------------------------ | 
 | PCB           |                         |                                |
 | PORTAPILAS    | CR2032 BATT HOLDER      |                                |
-| D1            | Schottky Diode          | SOT-123                        |
+| D1            | 1N4148 Schottky Diode   | SOT-123                        |
 | + PIN         | 1X1                     | PIN DE CONEXIÓN                |
 | - PIN         | 1X1                     | PIN DE CONEXIÓN                |
 

@@ -1,6 +1,6 @@
 # A4000battkit
 
-Pequeño PCB que permite sustituir la batería original (Ni-MH) de los Amiga 4000 ( o similares) y en su lugar colocar una litio (CR2032).
+Pequeño PCB que permite sustituir la batería original (Ni-MH) de los Amiga 4000 (o similares) y en su lugar colocar una litio (CR2032).
 
 # Imagen del PCB
 

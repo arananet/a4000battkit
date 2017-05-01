@@ -8,7 +8,7 @@ Pequeño PCB que permite sustituir la batería original (Ni-MH) de los Amiga 400
 
 <img src="https://github.com/arananet/a4000battkit/blob/master/images/traseron.png?raw=true" width="400">
 
-# Listado de componentes:
+# Listado de componentes
 
 | Parte         | Valor                   | Paquete o Huella               |
 | ------------- | ----------------------- | ------------------------------ | 

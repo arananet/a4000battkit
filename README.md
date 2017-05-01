@@ -4,9 +4,9 @@ Pequeño PCB que permite sustituir la batería original (Ni-MH) de los Amiga 400
 
 # Imagen del PCB
 
-<img src="https://github.com/arananet/a4000battkit/blob/master/images/frente.png?raw=true" width="700">
+<img src="https://github.com/arananet/a4000battkit/blob/master/images/frente.png?raw=true" width="400">
 
-<img src="https://github.com/arananet/a4000battkit/blob/master/images/trasero.png?raw=true" width="700">
+<img src="https://github.com/arananet/a4000battkit/blob/master/images/trasero.png?raw=true" width="400">
 
 # Listado de componentes:
 

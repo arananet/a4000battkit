@@ -18,7 +18,7 @@ Pequeño PCB que permite sustituir la batería original (Ni-MH) de los Amiga 400
 | + PIN         | 1X1                     | PIN DE CONEXIÓN                |
 | - PIN         | 1X1                     | PIN DE CONEXIÓN                |
 
-Pedir directamente a OSH Park
+# Pedir directamente a OSH Park
 
 <a href="https://oshpark.com/shared_projects/JIJZBYpw"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park"></img></a>
 

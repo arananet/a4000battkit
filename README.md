@@ -28,4 +28,4 @@ OshPark
 
 DirtyPCB's
 
-<a href="http://dirtypcbs.com/store/designer/details/arananet/2918/gerbers-zip"><img src="http://dirtypcbs.com/themes/dangercore/images/dangerous-prototypes.png" alt="Order from DirtyPCB's"/></a>
+<a href="http://dirtypcbs.com/store/designer/details/arananet/2921/a4000battkit-new"><img src="http://dirtypcbs.com/themes/dangercore/images/dangerous-prototypes.png" alt="Order from DirtyPCB's"/></a>

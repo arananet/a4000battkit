@@ -15,7 +15,7 @@ Tiny PCB for A4000 (or similar) that allow replace the original (Ni-MH) batt for
 | Parte         | Valor                   | Paquete o Huella               |
 | ------------- | ----------------------- | ------------------------------ | 
 | PCB           |                         |                                |
-| PORTAPILAS    | CR2032 BATT HOLDER      |                                |
+| B1            | CR2032 BATT HOLDER      |                                |
 | D1            | 1N4148 Schottky Diode   | SOT-123                        |
 | + PIN         | 1X1                     | PIN DE CONEXIÓN                |
 | - PIN         | 1X1                     | PIN DE CONEXIÓN                |

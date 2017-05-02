@@ -20,7 +20,7 @@ Tiny PCB for A4000 (or similar) that allow replace the original (Ni-MH) batt for
 | + PIN         | 1X1                     | PIN DE CONEXIÓN                |
 | - PIN         | 1X1                     | PIN DE CONEXIÓN                |
 
-# Pedir directamente a fabrica | Order directly to PCB company
+# Pedir directamente a fábrica | Order directly to PCB company
 
 OshPark
 

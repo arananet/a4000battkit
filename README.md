@@ -32,6 +32,6 @@ DirtyPCB's
 
 <a href="http://dirtypcbs.com/store/designer/details/arananet/2921/a4000battkit-new"><img src="http://dirtypcbs.com/themes/dangercore/images/dangerous-prototypes.png" alt="Order from DirtyPCB's"/></a>
 
-Guía paso a paso | Step by step guide
+# Guía paso a paso | Step by step guide
 
 http://arananet-net.kinja.com/montaje-del-a4000battkit-kit-de-bateria-para-el-4000-y-1795257256?rev=1494947494258

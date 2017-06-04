@@ -34,7 +34,7 @@ OshPark
 
 DirtyPCB's
 
-<a href="http://dirtypcbs.com/store/designer/details/arananet/2921/a4000battkit-new"><img src="http://dirtypcbs.com/themes/dangercore/images/dangerous-prototypes.png" alt="Order from DirtyPCB's"/></a>
+<a href="http://dirtypcbs.com/store/pcbs/order/f6eb/a4000battkit.zip"><img src="http://dirtypcbs.com/themes/dangercore/images/dangerous-prototypes.png" alt="Order from DirtyPCB's"/></a>
 
 # Guía paso a paso | Step by step guide
 

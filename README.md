@@ -4,6 +4,10 @@ Pequeño PCB que permite sustituir la batería original (Ni-MH) de los Amiga 400
 
 Tiny PCB for A4000 (or similar) that allow replace the original (Ni-MH) batt for a lithium batt (CR2032).
 
+# Cambios | Changes
+
+04/06/2017 - Añado huella para colocar diodos en formato THT.
+
 # Imagen del PCB
 
 <img src="https://github.com/arananet/a4000battkit/blob/master/images/frenten.png?raw=true" width="400">

@@ -34,7 +34,7 @@ OshPark
 
 DirtyPCB's
 
-<a href="http://dirtypcbs.com/store/pcbs/order/f6eb/a4000battkit.zip"><img src="http://dirtypcbs.com/themes/dangercore/images/dangerous-prototypes.png" alt="Order from DirtyPCB's"/></a>
+<a href="http://dirtypcbs.com/store/details/3647/a4000-battery-kit"><img src="http://dirtypcbs.com/themes/dangercore/images/dangerous-prototypes.png" alt="Order from DirtyPCB's"/></a>
 
 # Guía paso a paso | Step by step guide
 

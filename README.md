@@ -4,6 +4,9 @@ Pequeño PCB que permite sustituir la batería original (Ni-MH) de los Amiga 400
 
 Tiny PCB for A4000 (or similar) that allow replace the original (Ni-MH) batt for a lithium batt (CR2032).
 
+If you like the project or want to support it, you can buy me a beer or a KO-FI :) 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H51MPWG)
+
 # Actualizaciones
 
 12/11/2019: Actualizando licencia del repositorio.
